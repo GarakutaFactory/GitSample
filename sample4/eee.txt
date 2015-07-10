@@ -2,4 +2,11 @@ mittumemo
 branch
 ga
 dekimasi
-ta.
+ta
+koko.
+sohite
+mata
+kokode
+hennkouwo
+okonau
+test.
